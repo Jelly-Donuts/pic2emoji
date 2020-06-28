@@ -113,8 +113,8 @@ Notes
 
   For videos, the transparent pixels are written as black.
 
-- If you want to do a really long video considering using a larger emoji size,
-  each increase in size will reduce the processing time by about half! For 
-  more fine grained control use a combination of different emoji sizes and 
-  scaling.
+- If you want to process a really long video, consider using a larger emoji 
+  size, since each increase in size will reduce the processing time by about 
+  half! For more fine grained control, use a combination of different emoji 
+  sizes and scaling.
 
