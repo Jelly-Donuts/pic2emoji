@@ -29,7 +29,9 @@ To run pic2emoji on an image, run the following command
 ```
 
 where `image_path` is the path to your input image file and `output_path` is
-the path to the desired output file that will be created.
+the path to the desired output file that will be created. You can fine tune
+the look of your image (or video) with provided options to choose your 
+emoji size and scale your images. Check out [Options](#options) to read more.
 
 To run pic2emoji on video, run
 
