@@ -46,7 +46,9 @@ discussed further in the [Options](#options) section below.
 Examples
 --------
 
-Image example (a stock photo, could not find source attribution for the image):
+### Image Example
+
+A stock photo (could not find source attribution for the image):
 
 ![Stock photo](/examples/stock_photo.jpg)
 
@@ -62,8 +64,10 @@ Size 64px:
 
 ![Stock photo emojis 16px](/examples/stock_photo_64px.png)
 
-Video example (a clip of Big Buck Bunny animated short,
-[bigbuckbunny.org](https://peach.blender.org/), licensed under the Creative 
+### Video Example
+
+A clip of the animated short Big Buck Bunny,
+[bigbuckbunny.org](https://peach.blender.org/) (licensed under the Creative 
 Commons Attribution license):
 
 ![Big Buck Bunny clip](/examples/bigbuckbunny_clip.gif)
