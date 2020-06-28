@@ -66,11 +66,15 @@ Video example (a clip of Big Buck Bunny animated short,
 [bigbuckbunny.org](https://peach.blender.org/), licensed under the Creative 
 Commons Attribution license):
 
-![Big Buck Bunny clip](/examples/bigbuckbunny_clip.mp4)
+![Big Buck Bunny clip](/examples/bigbuckbunny_clip.gif)
 
 Size 16px:
 
-![Big Buck Bunny emojis](/examples/bigbuckbunny_clip_16px.mp4)
+![Big Buck Bunny emojis 16px](/examples/bigbuckbunny_clip_16px.gif)
+
+Size 32px:
+
+![Big Buck Bunny emojis 32px](/examples/bigbuckbunny_clip_32px.gif)
 
 
 Options
