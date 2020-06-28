@@ -1,4 +1,4 @@
-pic2emoji-py
+pic2emoji
 ============
 
 A Python script for converting images and videos to emojis.
